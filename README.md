@@ -1,2 +1,5 @@
-# get_cuorse
+# get_cuorse  
+
+
 for zero web school get cuorse
+## project notes
